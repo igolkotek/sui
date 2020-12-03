@@ -1,0 +1,21 @@
+{
+  "name": "@sui/modal",
+  "version": "0.7.0",
+  "description": "modal component for svelte ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "modal",
+    "component",
+    "svelte",
+    "svelte3"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sui/buttondelete": "^0.7.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "sui",
+  "version": "0.6.8",
+  "description": "svelte ui components and utils library",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "svelte",
+    "svelte3",
+    "svelte",
+    "ui"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sui/autocomplete": "^0.6.8",
+    "@sui/buttondelete": "^0.6.8",
+    "@sui/color_utils": "^0.6.8",
+    "@sui/common": "^0.6.8",
+    "@sui/grid": "^0.6.8",
+    "@sui/icon": "^0.6.8",
+    "@sui/lazyimage": "^0.6.8",
+    "@sui/modal": "^0.6.8",
+    "@sui/notifications": "^0.6.8",
+    "@sui/theme": "^0.6.8",
+    "@sui/themer": "^0.6.8",
+    "@sui/utils": "^0.6.8",
+    "@sui/viewport": "^0.6.8"
+  }
+}

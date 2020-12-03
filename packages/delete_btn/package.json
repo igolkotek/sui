@@ -1,0 +1,19 @@
+{
+  "name": "@sui/buttondelete",
+  "version": "0.7.0",
+  "description": "button delete component for svelte ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "button",
+    "button delete",
+    "component",
+    "svelte",
+    "svelte3"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@sui/theme",
+  "version": "0.7.0",
+  "description": "theme settings for svelte ui",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "theming"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED"
+}

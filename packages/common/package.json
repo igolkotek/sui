@@ -1,0 +1,19 @@
+{
+  "name": "@sui/common",
+  "version": "0.7.0",
+  "description": "common html tags for svelte ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "svelte 3",
+    "svelte ui"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sui/utils": "^0.7.0"
+  }
+}
