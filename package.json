@@ -1,5 +1,5 @@
 {
-  "name": "@igolkotek/sui",
+  "name": "sv-ui",
   "version": "0.7.0",
   "description": "svelte ui components and utils library",
   "main": "index.js",
