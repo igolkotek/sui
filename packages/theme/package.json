@@ -1,18 +1,15 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/theme",
   "version": "0.7.0",
-  "description": "viewport component",
-  "main": "index.js",
+  "description": "theme settings for svelte ui",
+  "main": "index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
-    "svelte",
-    "ui"
+    "theming"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

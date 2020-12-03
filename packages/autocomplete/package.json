@@ -1,0 +1,24 @@
+{
+  "name": "@sui/autocomplete",
+  "version": "0.7.0",
+  "description": "autocomplete component for svelte ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "autocomplete",
+    "component",
+    "svelte",
+    "svelte3"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sui/notifications": "^0.7.0",
+    "@sui/utils": "^0.7.0",
+    "svelte-awesome": "^2.3.0"
+  },
+  "devDependencies": {}
+}

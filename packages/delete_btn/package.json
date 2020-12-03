@@ -1,18 +1,19 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/buttondelete",
   "version": "0.7.0",
-  "description": "viewport component",
+  "description": "button delete component for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
+    "button",
+    "button delete",
+    "component",
     "svelte",
-    "ui"
+    "svelte3"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

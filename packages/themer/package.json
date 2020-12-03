@@ -1,18 +1,16 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/themer",
   "version": "0.7.0",
-  "description": "viewport component",
+  "description": "theme changer for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
-    "svelte",
-    "ui"
+    "theming",
+    "theme changer"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

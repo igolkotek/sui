@@ -1,18 +1,19 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/icon",
   "version": "0.7.0",
-  "description": "viewport component",
+  "description": "svg icon component for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
+    "icon",
+    "svg icon",
+    "component",
     "svelte",
-    "ui"
+    "svelte3"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

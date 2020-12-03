@@ -1,0 +1,22 @@
+{
+  "name": "@sui/button",
+  "version": "0.0.1",
+  "description": "button component for svelte ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "button",
+    "component",
+    "svelte",
+    "svelte3"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@smui/button": "^1.0.0",
+    "svelte-mui": "^0.3.3-4"
+  }
+}

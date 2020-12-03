@@ -1,18 +1,21 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/modal",
   "version": "0.7.0",
-  "description": "viewport component",
+  "description": "modal component for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
+    "modal",
+    "component",
     "svelte",
-    "ui"
+    "svelte3"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sui/buttondelete": "^0.7.0"
+  }
 }

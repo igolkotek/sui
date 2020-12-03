@@ -1,18 +1,16 @@
 {
-  "name": "sui_viewport",
-  "version": "0.7.0",
-  "description": "viewport component",
+  "name": "@sui/utils",
+  "version": "0.6.8",
+  "description": "utilites for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
-    "svelte",
-    "ui"
+    "utilites",
+    "js"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

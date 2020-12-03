@@ -1,18 +1,18 @@
 {
-  "name": "sui_viewport",
+  "name": "@sui/ripple",
   "version": "0.7.0",
-  "description": "viewport component",
+  "description": "ripple component for svelte ui. Made from svelte-mui (https://svelte-mui.ibbf.ru/ripple)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "viewport",
-    "sui",
+    "ripple",
+    "component",
     "svelte",
-    "ui"
+    "svelte3"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "UNLICENSED"
 }

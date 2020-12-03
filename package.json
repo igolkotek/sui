@@ -1,7 +1,7 @@
 {
-  "name": "sv-ui",
+  "name": "sui",
   "version": "0.7.0",
-  "description": "svelte ui components and utils library",
+  "description": "svelte ui components and utils library, sapper-ready ",
   "main": "index.js",
   "scripts": {
     "test": "echo Error: no test specified && exit 1"
