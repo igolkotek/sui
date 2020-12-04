@@ -4,7 +4,7 @@
 **Usage case:**
 
 ```
-import {Lazy, LazyBg, LazySz} from @sui/lazyimage;
+import {Lazy, LazyBg, LazySz} from sui_lazyimage;
 
 ```
 - _lazy_: true

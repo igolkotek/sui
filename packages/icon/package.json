@@ -1,11 +1,15 @@
 {
-  "name": "@sui/icon",
-  "version": "0.7.0",
+  "name": "sui_svgicon",
+  "version": "0.7.1",
   "description": "svg icon component for svelte ui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git"
   },
   "keywords": [
     "icon",
@@ -15,5 +19,9 @@
     "svelte3"
   ],
   "author": "igolkotek",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui#readme"
 }

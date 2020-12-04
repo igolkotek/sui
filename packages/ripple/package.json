@@ -1,5 +1,5 @@
 {
-  "name": "@sui/ripple",
+  "name": "sui_ripple",
   "version": "0.7.0",
   "description": "ripple component for svelte ui. Made from svelte-mui (https://svelte-mui.ibbf.ru/ripple)",
   "main": "index.js",
@@ -14,5 +14,13 @@
     "svelte3"
   ],
   "author": "igolkotek",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui.git/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui.git#readme"
 }

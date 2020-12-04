@@ -1,5 +1,5 @@
 {
-  "name": "@sui/themer",
+  "name": "sui_themer",
   "version": "0.7.0",
   "description": "theme changer for svelte ui",
   "main": "index.js",
@@ -12,5 +12,13 @@
     "theme changer"
   ],
   "author": "igolkotek",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui#readme"
 }

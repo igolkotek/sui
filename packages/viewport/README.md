@@ -1,7 +1,7 @@
 ### Viewport usage
 
 --at the top level file App.svelte
-`import {Viewport, viewportStore} from "@sui/viewport";`
+`import {Viewport, viewportStore} from "sui_viewport";`
 
 viewportStore monitors the following variables:
 width, height, isMobile

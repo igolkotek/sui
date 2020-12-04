@@ -69,7 +69,7 @@
 
 
 <script>
-    import {ButtonDelete} from '@sui/buttondelete';
+    import {ButtonDelete} from 'sui_buttondelete';
 
     let elRef;
     export let active = false;

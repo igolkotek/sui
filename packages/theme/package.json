@@ -1,5 +1,5 @@
 {
-  "name": "@sui/theme",
+  "name": "sui_theme",
   "version": "0.7.0",
   "description": "theme settings for svelte ui",
   "main": "index.scss",
@@ -11,5 +11,9 @@
     "theming"
   ],
   "author": "igolkotek",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "\"git+https://github.com/igolkotek/sui.git\""
+  }
 }

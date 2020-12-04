@@ -14,5 +14,13 @@
     "ui"
   ],
   "author": "igolkotek",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui#readme"
 }

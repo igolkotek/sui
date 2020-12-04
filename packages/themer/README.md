@@ -26,6 +26,6 @@ The 1st theme is default one and has no [data-theme]
 
 **App.svelte**
 ```
-import {ThemeChanger} from @sui/themer;
+import {ThemeChanger} from sui_themer;
 
 ```

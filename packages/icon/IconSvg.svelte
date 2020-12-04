@@ -28,7 +28,7 @@
 </i>
 
 <script>
-    import Path from "./svgs/Path.svelte"
+    import Path from "./Path.svelte"
 
     export {className as class};
     let className = '';

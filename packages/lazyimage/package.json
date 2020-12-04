@@ -1,5 +1,5 @@
 {
-  "name": "@sui/lazyimage",
+  "name": "sui_lazyimage",
   "version": "0.7.0",
   "description": "lazy load image for svelte ui",
   "main": "index.js",
@@ -7,11 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git"
+  },
   "keywords": [
     "lazy load",
     "lazy load image",
     "svelte 3"
   ],
   "author": "igolkotek",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui#readme"
 }
