@@ -1,0 +1,24 @@
+{
+  "name": "sui_helpers",
+  "version": "0.8.0",
+  "description": "helpers for svelte components, taken mainly from different authers: @hperrin, @vikignt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public"
+  },
+  "keywords": [
+    "utilites",
+    "js"
+  ],
+  "author": "igolkotek",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolkotek/sui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igolkotek/sui/issues"
+  },
+  "homepage": "https://github.com/igolkotek/sui#readme"
+}

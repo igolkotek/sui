@@ -1,14 +1,14 @@
 {
-  "name": "sui_ripple",
+  "name": "sui_popmenu",
   "version": "0.7.1",
-  "description": "ripple component for svelte ui. Made from svelte-mui (https://svelte-mui.ibbf.ru/ripple)",
+  "description": "Pop-up menu component for svelte ui. Made from svelte-mui (https://svelte-mui.ibbf.ru/ripple)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pub": "npm publish --access public"
   },
   "keywords": [
-    "ripple",
+    "pop-up menu",
     "component",
     "svelte",
     "svelte3"
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/igolkotek/sui.git/issues"
   },
-  "homepage": "https://github.com/igolkotek/sui.git#readme"
+  "homepage": "https://github.com/igolkotek/sui.git#readme",
+  "dependencies": {
+    "sui_helpers": "^0.8.0",
+    "sui_ripple": "^0.7.1"
+  }
 }

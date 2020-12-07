@@ -156,7 +156,7 @@
             }
             el.dataset.color = color;
             trigEl = el.parentElement;
-            console.log("parent el", trigEl)
+            // console.log("parent el", trigEl)
         } catch (err) {} // eslint-disable-line
 
         if (!trigEl) {
